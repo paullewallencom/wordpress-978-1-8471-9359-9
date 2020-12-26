@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-09 14:24+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Vladimir Prelovac <vprelovac@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../post-types.php:54
+msgid "Post Types requires WordPress 2.5 or newer. <a href=\"http://codex.wordpress.org/Upgrading_WordPress\">Please update!</a>"
+msgstr ""
+
+#: ../post-types.php:77
+#: ../template/photo.php:13
+msgid "Add Photo"
+msgstr ""
+
+#: ../post-types.php:77
+#: ../post-types.php:194
+#: ../post-types.php:320
+#: ../post-types.php:330
+#: ../template/photo.php:33
+msgid "Photo"
+msgstr ""
+
+#: ../post-types.php:78
+msgid "Add URL"
+msgstr ""
+
+#: ../post-types.php:78
+#: ../template/link.php:33
+msgid "URL"
+msgstr ""
+
+#: ../post-types.php:88
+msgid "Please upload a valid image."
+msgstr ""
+
+#: ../post-types.php:89
+msgid "You need to enter a title and add a photo."
+msgstr ""
+
+#: ../post-types.php:90
+msgid "You need to enter a URL."
+msgstr ""
+
+#: ../post-types.php:99
+msgid "Unknown error occured, please contact the administrator."
+msgstr ""
+
+#: ../post-types.php:238
+#: ../post-types.php:321
+#: ../post-types.php:333
+msgid "Link"
+msgstr ""
+
+#: ../post-types.php:277
+msgid "Type"
+msgstr ""
+
+#: ../post-types.php:293
+#: ../post-types.php:319
+msgid "Normal"
+msgstr ""
+
+#: ../template/link.php:9
+msgid "Link added."
+msgstr ""
+
+#: ../template/link.php:9
+#: ../template/photo.php:9
+msgid "View post"
+msgstr ""
+
+#: ../template/link.php:13
+msgid "Add Link"
+msgstr ""
+
+#: ../template/link.php:22
+#: ../template/photo.php:22
+msgid "Publish"
+msgstr ""
+
+#: ../template/link.php:22
+#: ../template/photo.php:22
+msgid "Submit"
+msgstr ""
+
+#: ../template/link.php:28
+msgid "Title (optional)"
+msgstr ""
+
+#: ../template/link.php:42
+#: ../template/photo.php:49
+msgid "Description (optional)"
+msgstr ""
+
+#: ../template/photo.php:9
+msgid "Photo added."
+msgstr ""
+
+#: ../template/photo.php:28
+msgid "Title"
+msgstr ""
+
+#: ../template/photo.php:36
+msgid "Enter URL:"
+msgstr ""
+
+#: ../template/photo.php:41
+msgid "or Upload Photo:"
+msgstr ""
+

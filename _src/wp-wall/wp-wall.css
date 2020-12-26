@@ -1,0 +1,39 @@
+#wp_wall p
+{
+	margin-top:4px;
+	margin-bottom:4px;
+}
+
+#wallcomments p
+{
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+#wall_post input {
+	border: 1px solid #cccccc;
+}
+
+#wallcomments {		
+	margin-bottom: 5px;	
+	
+	/* uncomment this for fixed height and a scrollbar
+	height: 200px;
+	overflow: auto; */	
+}
+
+.wallauthor {
+	font-weight:bold;
+}
+
+.wallcomment {
+	font-weight:normal;
+}
+
+.wall-error {
+	/* background:#ffb0b0; */
+
+}
+.wall-success {
+	/* background:#c0dFa0; */
+}

@@ -1,0 +1,72 @@
+.snazzy {
+text-align:left;
+overflow:auto;
+}
+
+.snazzy img {
+margin:0;
+padding:0;
+}
+
+.sz_cont {
+width:100px;
+display:block;
+overflow:hidden;
+margin:0px 0px 10px;
+}
+
+.sz_page {
+bacground-color: #ffffef;
+}
+
+.sz_img {
+height:110px;
+}
+
+.sz_year {
+font-size:22px;
+color:#444;
+font-family:georgia, verdana;
+font-style:italic;
+}
+
+.sz_date_yr {
+height:42px;
+font-size:34px;
+}
+
+.sz_date_mon {
+height:29px;
+font-size:22px;
+cursor:pointer;
+}
+
+.sz_date_day {
+background: #efefea;
+margin-bottom:1px;
+height:20px;
+font-size:14px;
+font-weight:bold;
+cursor:pointer;
+}
+
+.sz_title {
+padding:5px 0px;
+font-weight:bold;
+color:#444;
+}
+
+.sz_titleon {
+line-height:14px;
+color:#eee;
+background-color:#333;
+}
+
+.sz_excerpt {
+font-size:9px;
+padding-bottom:5px;
+color:#999;
+}
+
+
+
